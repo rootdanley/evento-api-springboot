@@ -14,7 +14,10 @@ blocos de horários (por exemplo: um curso de HTML pode ocorrer em dois blocos, 
 armazenar o dia e os horários de início de fim do bloco daquele dia). Para cada participante, deseja-se
 cadastrar seu nome e email.
 
+### Modelo de domínio
+
 ![image](https://github.com/rootdanley/evento-api-springboot/assets/85087531/9bf16a9e-bb8f-455b-9268-fc963f312f12)
 
+### Diagrama de Objetos
 ![image](https://github.com/rootdanley/evento-api-springboot/assets/85087531/ae67eb65-9f7f-4c22-8732-609287078060)
 
