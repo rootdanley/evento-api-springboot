@@ -1,13 +1,13 @@
-package br.com.danley.eventosys;
+package br.com.danley.eventosapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EventosysApplication {
+public class EventosApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EventosysApplication.class, args);
+		SpringApplication.run(EventosApiApplication.class, args);
 	}
 
 }

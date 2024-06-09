@@ -1,10 +1,10 @@
-package br.com.danley.eventosys;
+package br.com.danley.eventosapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EventosysApplicationTests {
+class EventosApiApplicationTests {
 
 	@Test
 	void contextLoads() {
