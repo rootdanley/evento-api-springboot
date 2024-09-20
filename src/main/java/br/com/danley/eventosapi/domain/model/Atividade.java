@@ -24,7 +24,7 @@ public class Atividade {
    private Categoria categoria;
 
    @OneToMany(mappedBy = "atividade", cascade = CascadeType.ALL)
-   private List<Bloco> blocos;
+   private List<Bloco> blocos = new ArrayList<>();
 
    @ManyToMany(mappedBy = "atividades")
    private Set<Participante> participantes;
